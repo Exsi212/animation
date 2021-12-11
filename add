@@ -9,30 +9,42 @@
 
 <body>
   <div id="header">
-    <img src="resource/img/minna.png" width="71px" height="71px" alt="">
-    <p>pushaggressively</p>
+<div class="leftj">
+  <img src="resource/img/minna.png" width="71px" height="71px" alt="">
+  <p>pushaggressively</p>
+</div>
+
+    <div class="plashka">
+      <img src="resource/img/union.svg" alt="">
+    </div>
   </div>
 
-  <div class="rectangle1">
-    <div id="black1">
-      <p class="b1">20122021</p>
-    </div>
-
-    <div id="black2">
-    </div>
-
-
-    <!--  -->
+<div class="rectangle1">
+  <div class="black1">
+    <p class="b1">201121</p>
   </div>
-
+  <div class="rcenter">
+    <div class="img"></div>
+  </div>
+  <div class="black2">
+    <p class="b2">WIN</p>
+  </div>
+</div>
+</div> 
+  <!-- mina: resource/img/minna.png -->
+  <!-- blue flag: resource/img/bf.png -->
+  <!-- red flag:resource/img/rf.png  -->
+  <!-- bomb: resource/img/bomb.png -->
+  <!-- boom: resource/img/boom.png -->
+  <!-- heart: resource/img/heart.png -->
   <div class="parent">
     <div class="div1"> </div>
-    <div class="div2"> </div>
+    <div class="div2"><img src="resource/img/bf.png" alt=""> </div>
     <div class="div3"> </div>
     <div class="div4"> </div>
     <div class="div5"> </div>
     <div class="div6"> </div>
-    <div class="div7"> </div>
+    <div class="div7"> <img src="resource/img/heart.png" alt=""> </div>
     <div class="div8"> </div>
     <div class="div9"> </div>
     <div class="div10"> </div>
@@ -40,148 +52,161 @@
     <div class="div12"> </div>
     <div class="div13"> </div>
     <div class="div14"> </div>
-    <div class="div15"> </div>
+    <div class="div15">
+      <p class="dva">2</p>
+    </div>
     <div class="div16"> </div>
     <div class="div17"> </div>
     <div class="div18"> </div>
-    <div class="div19"> </div>
+    <div class="div19">
+      <p class="odin">1</p>
+    </div>
     <div class="div20"> </div>
     <div class="div21"> </div>
     <div class="div22"> </div>
     <div class="div23"> </div>
-    <div class="div24"> </div>
+    <div class="div24">
+      <p class="sovet">отдохни</p>
+    </div>
     <div class="div25"> </div>
-    <div class="div26"> </div>
-    <div class="div27"> </div>
+    <div class="div26">
+      <p class="odin">1</p>
+    </div>
+    <div class="div27">
+      <p class="odin">1</p>
+    </div>
     <div class="div28"> </div>
     <div class="div29"> </div>
-    <div class="div30"> </div>
-    <div class="div31"> </div>
-    <div class="div32"> </div>
+    <div class="div30"><img src="resource/img/rf.png" alt=""> </div>
+    <div class="div31"><p class="dva">2</p>  </div>
+    <div class="div32"></div>
     <div class="div33"> </div>
-    <div class="div34"> </div>
-    <div class="div35"> </div>
+    <div class="div34"></div>
+    <div class="div35"> <p class="odin">1</p> </div>
     <div class="div36"> </div>
-    <div class="div37"> </div>
+    <div class="div37"><p class="dva">2</p> </div>
     <div class="div38"> </div>
     <div class="div39"> </div>
     <div class="div40"> </div>
     <div class="div41"> </div>
-    <div class="div42"> </div>
-    <div class="div43"> </div>
+    <div class="div42"><p class="odin">1</p></div>
+    <div class="div43"><p class="odin">1</p> </div>
     <div class="div44"> </div>
-    <div class="div45"> </div>
-    <div class="div46"> </div>
-    <div class="div47"> </div>
+    <div class="div45"><img src="resource/img/rf.png" alt=""> </div>
+    <div class="div46"><img src="resource/img/minna.png" alt=""> </div>
+    <div class="div47"><p class="dva">2</p> </div>
     <div class="div48"> </div>
     <div class="div49"> </div>
-    <div class="div50"> </div>
-    <div class="div51"> </div>
+    <div class="div50"></div>
+    <div class="div51"><p class="odin">1</p> </div>
     <div class="div52"> </div>
     <div class="div53"> </div>
-    <div class="div54"> </div>
+    <div class="div54"><p class="dva">2</p> </div>
     <div class="div55"> </div>
     <div class="div56"> </div>
-    <div class="div57"> </div>
-    <div class="div58"> </div>
-    <div class="div59"> </div>
+    <div class="div57"><img src="resource/img/bomb.png" alt=""> </div>
+    <div class="div58"><img src="resource/img/bomb.png" alt="">  </div>
+    <div class="div59"> <img src="resource/img/boom.png" alt=""></div>
     <div class="div60"> </div>
     <div class="div61"> </div>
-    <div class="div62"> </div>
-    <div class="div63"> </div>
+    <div class="div62"><p class="dva">2</p> </div>
+    <div class="div63"><p class="sovet">всё</p> </div>
     <div class="div64"> </div>
     <div class="div65"> </div>
-    <div class="div66"> </div>
-    <div class="div67"> </div>
-    <div class="div68"> </div>
+    <div class="div66"> <p class="sovet">остынь</p></div>
+    <div class="div67"> <p class="odin">1</p></div>
+    <div class="div68"><img src="resource/img/minna.png" alt=""> </div>
     <div class="div69"> </div>
-    <div class="div70"> </div>
+    <div class="div70"><p class="dva">2</p> </div>
     <div class="div71"> </div>
-    <div class="div72"> </div>
-    <div class="div73"> </div>
+    <div class="div72"></div>
+    <div class="div73"><img src="resource/img/bomb.png" alt=""> </div>
     <div class="div74"> </div>
-    <div class="div75"> </div>
+    <div class="div75"><img src="resource/img/bomb.png" alt=""> </div>
     <div class="div76"> </div>
-    <div class="div77"> </div>
-    <div class="div78"> </div>
-    <div class="div79"> </div>
+    <div class="div77"><p class="dva">2</p>  </div>
+    <div class="div78"><img src="resource/img/minna.png" alt=""> </div>
+    <div class="div79"> <p class="sovet">в</p></div>
     <div class="div80"> </div>
     <div class="div81"> </div>
     <div class="div82"> </div>
     <div class="div83"> </div>
-    <div class="div84"> </div>
-    <div class="div85"> </div>
-    <div class="div86"> </div>
+    <div class="div84"><img src="resource/img/minna.png" alt=""> </div>
+    <div class="div85"></div>
+    <div class="div86"><p class="dva">2</p>  </div>
     <div class="div87"> </div>
     <div class="div88"> </div>
-    <div class="div89"> </div>
-    <div class="div90"> </div>
-    <div class="div91"> </div>
+    <div class="div89"><img src="resource/img/bomb.png" alt=""> </div>
+    <div class="div90"> <img src="resource/img/bomb.png" alt=""></div>
+    <div class="div91"> <img src="resource/img/bomb.png" alt=""></div>
     <div class="div92"> </div>
-    <div class="div93"> </div>
+    <div class="div93"> <p class="dva">2</p>  </div>
     <div class="div94"> </div>
-    <div class="div95"> </div>
+    <div class="div95"><p class="sovet">норме</p> </div>
     <div class="div96"> </div>
     <div class="div97"> </div>
-    <div class="div98"> </div>
+    <div class="div98"><img src="resource/img/minna.png" alt=""> </div>
     <div class="div99"> </div>
     <div class="div100"> </div>
     <div class="div101"> </div>
-    <div class="div102"> </div>
-    <div class="div103"> </div>
+    <div class="div102"> <p class="dva">2</p>  </div>
+    <div class="div103"> <p class="dva">2</p>  </div>
     <div class="div104"> </div>
     <div class="div105"> </div>
     <div class="div106"> </div>
     <div class="div107"> </div>
     <div class="div108"> </div>
-    <div class="div109"> </div>
+    <div class="div109"><p class="dva">2</p>   </div>
     <div class="div110"> </div>
-    <div class="div111"> </div>
-    <div class="div112"> </div>
+    <div class="div111"></div>
+    <div class="div112"><p class="odin">1</p> </div>
     <div class="div113"> </div>
-    <div class="div114"> </div>
+    <div class="div114"> <img src="resource/img/minna.png" alt=""> </div>
     <div class="div115"> </div>
     <div class="div116"> </div>
     <div class="div117"> </div>
     <div class="div118"> </div>
     <div class="div119"> </div>
     <div class="div120"> </div>
-    <div class="div121"> </div>
-    <div class="div122"> </div>
-    <div class="div123"> </div>
+    <div class="div121"> <p class="sovet">это</p></div>
+    <div class="div122"><p class="sovet">просто</p> </div>
+    <div class="div123"><p class="sovet">игра</p> </div>
     <div class="div124"> </div>
     <div class="div125"> </div>
-    <div class="div126"> </div>
-    <div class="div127"> </div>
-    <div class="div128"> </div>
+    <div class="div126"> <img src="resource/img/heart.png" alt=""> </div>
+    <div class="div127"> <p class="odin">1</p>  </div>
+    <div class="div128"><p class="odin">1</p>  </div>
     <div class="div129"> </div>
     <div class="div130"> </div>
     <div class="div131"> </div>
-    <div class="div132"> </div>
+    <div class="div132"> <p class="odin">1</p></div>
     <div class="div133"> </div>
-    <div class="div134"> </div>
-    <div class="div135"> </div>
-    <div class="div136"> </div>
+    <div class="div134"><img src="resource/img/minna.png" alt=""> </div>
+    <div class="div135"><img src="resource/img/minna.png" alt="">  </div>
+    <div class="div136">  </div>
     <div class="div137"> </div>
     <div class="div138"> </div>
     <div class="div139"> </div>
-    <div class="div140"> </div>
+    <div class="div140"><p class="odin">1</p> </div>
     <div class="div141"> </div>
     <div class="div142"> </div>
     <div class="div143"> </div>
     <div class="div144"> </div>
   </div>
-  <!--  -->
+  <!--  sdsds-->
   <div class="footer">
-  <p>Aleshina Olya</p>
-  <p>БД21308</p>
-
+<div class="footerleft">
+    <p>Aleshina Olya</p>
+    <p>БД21308</p>
+</div>
+<div class="footerright">
+<p>pushaggressively</p>
+<p>HSE DESIGN & CODE</p>
+</div>
   </div>
 </body>
 
 </html>
-
-
 
 
 @font-face {
@@ -205,10 +230,13 @@ body {
   height: 76px;
   background: #286DD4;
   margin: auto;
+  display: flex;
+  justify-content: space-between;
+
 }
 
-#header img {
-  position: absolute;
+.leftj {
+  position: relative;
   top: 5px;
   left: 13px;
 }
@@ -225,19 +253,44 @@ body {
   top: -30px;
 }
 
-.rectangle1 {
-  width: 1880px;
-  height: 115px;
-  background: #AAAAAA;
-  margin-top: 33px;
+
+.plashka {
+  margin-top: 17px;
   margin-right: 20px;
-  margin-left: 20px;
-  display: flex;
-  position: relative;
-  flex-direction: row;
 }
 
-#black1 {
+.rcenter {
+  width: 116px;
+  height: 64px;
+  background: #C4C4C4;
+  margin-top: 27px;
+  margin-left: 80px;
+}
+
+.img{
+  background-image: url('../resource/img/asmilepng.png');
+  margin-left: 30px;
+  width: 54px;
+  height: 58px;
+  position: relative;
+  display: block;
+animation: walk .5s steps(2) infinite;
+margin-top: 3px;
+}
+
+@keyframes walk {
+  0% {background-position: 0px 0px;}
+  100% {background-position: -108px 0px;}
+}
+/*
+.rcenter img {
+  padding-top: 3px;
+  margin-left: 20px;
+
+}  */
+
+
+.black1 {
   width: 215px;
   height: 67px;
   background: black;
@@ -246,21 +299,80 @@ body {
   left: 86px;
 }
 
+.black2 {
+  width: 215px;
+  height: 67px;
+  background: black;
+  position: relative;
+  margin-top: 22px;
+  margin-right: 86px;
+}
+
 .b1 {
   color: red;
-  margin-left: 25px;
+  margin-left: 50px;
+  font-size: 48px;
+  position: relative;
+  margin-top: 3px;
+}
+
+.b2 {
+  color: #008000;
+  margin-left: 75px;
   font-size: 48px;
   position: relative;
   align-items: center;
   margin-top: 3px;
 }
-}
 
-.blink {
+.b1 {
   animation: blink 2s infinite;
 }
 
+
+
+.b2 {
+  animation: blink 2s infinite;
+}
+
+.rectangle1{
+  width: 1880px;
+  height: 115px;
+  background: #AAAAAA;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  margin-top: 33px;
+  margin-left: 20px;
+}
+
+.black1 {
+  width: 215px;
+  height: 67px;
+  background: black;
+  position: relative;
+  margin-top: 22px;
+  left: 86px;
+}
+
+
+.div46 img{
+  animation: spin 5s linear 0s infinite;
+}
+@keyframes spin {
+  from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+}
 @keyframes blink {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+@keyframes blinkk {
   from {
     opacity: 1;
   }
@@ -282,19 +394,30 @@ body {
 
 .div1 {
   grid-area: 1 / 1 / 2 / 2;
-  background: #AAA9A9;
+  background: #d2d2d2;
+}
+
+.div2 img {
+  width: 96px;
+  height: 96px;
+  margin-left: 12px;
+  margin-top: 13px;
 }
 
 .div2 {
   grid-area: 1 / 2 / 2 / 3;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
-
+.div3:hover{
+  background-color: #e61919;
+}
 .div3 {
   grid-area: 1 / 3 / 2 / 4;
   background-color: #d2d2d2;
 }
-
+.div4:hover{
+  background-color: #bf4040;
+}
 .div4 {
   grid-area: 1 / 4 / 2 / 5;
   background-color: #d2d2d2;
@@ -312,9 +435,19 @@ body {
 
 .div7 {
   grid-area: 1 / 7 / 2 / 8;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
+.div7 img {
+  width: 86px;
+  height: 86px;
+  margin-top: 14px;
+  margin-left: 14px;
+  transition: transform .2s; /* Animation */
+}
+.div7 img:hover{
+  transform: scale(1.5);
+}
 .div8 {
   grid-area: 1 / 8 / 2 / 9;
   background-color: #d2d2d2;
@@ -352,7 +485,14 @@ body {
 
 .div15 {
   grid-area: 1 / 15 / 2 / 16;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div15 p {
+  font-size: 96px;
+  color: #008000;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div16 {
@@ -372,7 +512,14 @@ body {
 
 .div19 {
   grid-area: 2 / 3 / 3 / 4;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div19 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div20 {
@@ -397,7 +544,14 @@ body {
 
 .div24 {
   grid-area: 2 / 8 / 3 / 9;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div24 p {
+  font-size: 18px;
+  margin-top: 46px;
+  margin-left: 18px;
+  color: white;
 }
 
 .div25 {
@@ -407,12 +561,26 @@ body {
 
 .div26 {
   grid-area: 2 / 10 / 3 / 11;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div26 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div27 {
   grid-area: 2 / 11 / 3 / 12;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div27 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div28 {
@@ -427,17 +595,31 @@ body {
 
 .div30 {
   grid-area: 2 / 14 / 3 / 15;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div30 img {
+  width: 96px;
+  height: 96px;
+  margin-top: 12px;
+  margin-left: 13px;
 }
 
 .div31 {
   grid-area: 2 / 15 / 3 / 16;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
 .div32 {
   grid-area: 2 / 16 / 3 / 17;
   background-color: #d2d2d2;
+}
+
+.div31 p {
+  font-size: 96px;
+  color: #008000;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div33 {
@@ -450,9 +632,16 @@ body {
   background-color: #d2d2d2;
 }
 
+.div35 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
+}
+
 .div35 {
   grid-area: 3 / 3 / 4 / 4;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
 .div36 {
@@ -462,7 +651,14 @@ body {
 
 .div37 {
   grid-area: 3 / 5 / 4 / 6;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div37 p {
+  font-size: 96px;
+  color: #008000;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div38 {
@@ -485,14 +681,28 @@ body {
   background-color: #d2d2d2;
 }
 
+.div42 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
+}
+
 .div42 {
   grid-area: 3 / 10 / 4 / 11;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div43 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div43 {
   grid-area: 3 / 11 / 4 / 12;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
 .div44 {
@@ -500,19 +710,40 @@ body {
   background-color: #d2d2d2;
 }
 
+.div45 img {
+  width: 96px;
+  height: 96px;
+  margin-top: 12px;
+  margin-left: 13px;
+}
+
 .div45 {
   grid-area: 3 / 13 / 4 / 14;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
 .div46 {
   grid-area: 3 / 14 / 4 / 15;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div46 img {
+  width: 96px;
+  height: 96px;
+  margin-top: 12px;
+  margin-left: 8px;
 }
 
 .div47 {
   grid-area: 3 / 15 / 4 / 16;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div47 p {
+  font-size: 96px;
+  color: #008000;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div48 {
@@ -530,24 +761,49 @@ body {
   background-color: #d2d2d2;
 }
 
+.div50 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
+}
+
+.div51 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
+}
+
 .div51 {
   grid-area: 4 / 3 / 5 / 4;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
 .div52 {
   grid-area: 4 / 4 / 5 / 5;
   background-color: #d2d2d2;
 }
-
+.div52:hover{
+  background-color: #e61919;
+}
 .div53 {
   grid-area: 4 / 5 / 5 / 6;
   background-color: #d2d2d2;
 }
-
+.div53:hover{
+  background-color: #bf4040;
+}
 .div54 {
   grid-area: 4 / 6 / 5 / 7;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div54 p {
+  font-size: 96px;
+  color: #008000;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div55 {
@@ -562,17 +818,40 @@ body {
 
 .div57 {
   grid-area: 4 / 9 / 5 / 10;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div57 img {
+  width: 96px;
+  height: 96px;
+  margin-left: 11px;
+  margin-top: 15px;
+  margin-right: 9px;
 }
 
 .div58 {
   grid-area: 4 / 10 / 5 / 11;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div58 img {
+  width: 96px;
+  height: 96px;
+  margin-left: 11px;
+  margin-top: 15px;
+  margin-right: 9px;
 }
 
 .div59 {
   grid-area: 4 / 11 / 5 / 12;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div59 img {
+  width: 96px;
+  height: 96px;
+  margin-left: 13px;
+  margin-top: 15px
 }
 
 .div60 {
@@ -587,12 +866,26 @@ body {
 
 .div62 {
   grid-area: 4 / 14 / 5 / 15;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div62 p {
+  font-size: 96px;
+  color: #008000;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div63 {
   grid-area: 4 / 15 / 5 / 16;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div63 p {
+  color: white;
+  font-size: 18px;
+  margin-left: 40px;
+  margin-top: 40px;
 }
 
 .div64 {
@@ -607,19 +900,53 @@ body {
 
 .div66 {
   grid-area: 5 / 2 / 6 / 3;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div66 p {
+  color: white;
+  font-size: 18px;
+  margin-left: 22px;
+  margin-top: 43px;
 }
 
 .div67 {
   grid-area: 5 / 3 / 6 / 4;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div67 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div68 {
   grid-area: 5 / 4 / 6 / 5;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
+.div68 img {
+  width: 96px;
+  height: 96px;
+  margin-top: 12px;
+  margin-left: 8px;
+  animation: spin 5s linear 0s infinite;
+  }
+  @keyframes spin {
+  from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+  }
+  @keyframes blink {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+  }
 .div69 {
   grid-area: 5 / 5 / 6 / 6;
   background-color: #d2d2d2;
@@ -627,7 +954,14 @@ body {
 
 .div70 {
   grid-area: 5 / 6 / 6 / 7;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div70 p {
+  font-size: 96px;
+  color: #008000;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div71 {
@@ -640,9 +974,17 @@ body {
   background-color: #d2d2d2;
 }
 
+.div73 img {
+  width: 96px;
+  height: 96px;
+  margin-left: 11px;
+  margin-top: 15px;
+  margin-right: 9px;
+}
+
 .div73 {
   grid-area: 5 / 9 / 6 / 10;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
 .div74 {
@@ -650,9 +992,17 @@ body {
   background-color: #d2d2d2;
 }
 
+.div75 img {
+  width: 96px;
+  height: 96px;
+  margin-left: 11px;
+  margin-top: 15px;
+  margin-right: 9px;
+}
+
 .div75 {
   grid-area: 5 / 11 / 6 / 12;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
 .div76 {
@@ -662,17 +1012,52 @@ body {
 
 .div77 {
   grid-area: 5 / 13 / 6 / 14;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div77 p {
+  font-size: 96px;
+  color: #008000;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div78 {
   grid-area: 5 / 14 / 6 / 15;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
+
+.div78 img {
+  width: 96px;
+  height: 96px;
+  margin-top: 12px;
+  margin-left: 8px;
+  animation: spin 5s linear 0s infinite;
+  }
+  @keyframes spin {
+  from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+  }
+  @keyframes blink {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+  }
 
 .div79 {
   grid-area: 5 / 15 / 6 / 16;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div79 p {
+  color: white;
+  font-size: 18px;
+  margin-left: 49px;
+  margin-top: 40px;
 }
 
 .div80 {
@@ -695,9 +1080,30 @@ body {
   background-color: #d2d2d2;
 }
 
+.div84 img {
+  width: 96px;
+  height: 96px;
+  margin-top: 12px;
+  margin-left: 8px;
+  animation: spin 5s linear 0s infinite;
+  }
+  @keyframes spin {
+  from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+  }
+  @keyframes blink {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+  }
+
 .div84 {
   grid-area: 6 / 4 / 7 / 5;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
 .div85 {
@@ -705,9 +1111,16 @@ body {
   background-color: #d2d2d2;
 }
 
+.div86 p {
+  font-size: 96px;
+  color: #008000;
+  margin-top: 0px;
+  margin-left: 39px;
+}
+
 .div86 {
   grid-area: 6 / 6 / 7 / 7;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
 .div87 {
@@ -722,17 +1135,41 @@ body {
 
 .div89 {
   grid-area: 6 / 9 / 7 / 10;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div89 img {
+  width: 96px;
+  height: 96px;
+  margin-left: 11px;
+  margin-top: 15px;
+  margin-right: 9px;
 }
 
 .div90 {
   grid-area: 6 / 10 / 7 / 11;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div90 img {
+  width: 96px;
+  height: 96px;
+  margin-left: 11px;
+  margin-top: 15px;
+  margin-right: 9px;
 }
 
 .div91 {
   grid-area: 6 / 11 / 7 / 12;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div91 img {
+  width: 96px;
+  height: 96px;
+  margin-left: 11px;
+  margin-top: 15px;
+  margin-right: 9px;
 }
 
 .div92 {
@@ -742,7 +1179,14 @@ body {
 
 .div93 {
   grid-area: 6 / 13 / 7 / 14;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div93 p {
+  font-size: 96px;
+  color: #008000;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div94 {
@@ -752,7 +1196,14 @@ body {
 
 .div95 {
   grid-area: 6 / 15 / 7 / 16;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div95 p {
+  color: white;
+  font-size: 18px;
+  margin-left: 30px;
+  margin-top: 43px;
 }
 
 .div96 {
@@ -765,9 +1216,30 @@ body {
   background-color: #d2d2d2;
 }
 
+.div98 img {
+  width: 96px;
+  height: 96px;
+  margin-top: 12px;
+  margin-left: 8px;
+  animation: spin 5s linear 0s infinite;
+  }
+  @keyframes spin {
+  from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+  }
+  @keyframes blink {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+  }
+
 .div98 {
   grid-area: 7 / 2 / 8 / 3;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
 .div99 {
@@ -787,12 +1259,26 @@ body {
 
 .div102 {
   grid-area: 7 / 6 / 8 / 7;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div102 p {
+  font-size: 96px;
+  color: #008000;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div103 {
   grid-area: 7 / 7 / 8 / 8;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div103 p {
+  font-size: 96px;
+  color: #008000;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div104 {
@@ -822,7 +1308,14 @@ body {
 
 .div109 {
   grid-area: 7 / 13 / 8 / 14;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div109 p {
+  font-size: 96px;
+  color: #008000;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div110 {
@@ -835,9 +1328,16 @@ body {
   background-color: #d2d2d2;
 }
 
+.div112 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
+}
+
 .div112 {
   grid-area: 7 / 16 / 8 / 17;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
 .div113 {
@@ -847,8 +1347,29 @@ body {
 
 .div114 {
   grid-area: 8 / 2 / 9 / 3;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
+
+.div114 img {
+  width: 96px;
+  height: 96px;
+  margin-top: 12px;
+  margin-left: 8px;
+  animation: spin 5s linear 0s infinite;
+  }
+  @keyframes spin {
+  from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+  }
+  @keyframes blink {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+  }
 
 .div115 {
   grid-area: 8 / 3 / 9 / 4;
@@ -882,17 +1403,38 @@ body {
 
 .div121 {
   grid-area: 8 / 9 / 9 / 10;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div121 p {
+  color: white;
+  font-size: 18px;
+  margin-left: 41px;
+  margin-top: 45px;
 }
 
 .div122 {
   grid-area: 8 / 10 / 9 / 11;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div122 p {
+  color: white;
+  font-size: 18px;
+  margin-left: 25px;
+  margin-top: 47px;
 }
 
 .div123 {
   grid-area: 8 / 11 / 9 / 12;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div123 p {
+  color: white;
+  font-size: 18px;
+  margin-left: 32px;
+  margin-top: 46px;
 }
 
 .div124 {
@@ -907,17 +1449,42 @@ body {
 
 .div126 {
   grid-area: 8 / 14 / 9 / 15;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
+
+.div126 img {
+  width: 86px;
+  height: 86px;
+  margin-top: 14px;
+  margin-left: 14px;
+  transition: transform .2s; /* Animation */
+  }
+  .div126 img:hover{
+  transform: scale(1.5);
+  }
 
 .div127 {
   grid-area: 8 / 15 / 9 / 16;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div127 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div128 {
   grid-area: 8 / 16 / 9 / 17;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div128 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div129 {
@@ -937,7 +1504,14 @@ body {
 
 .div132 {
   grid-area: 9 / 4 / 10 / 5;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div132 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div133 {
@@ -947,13 +1521,55 @@ body {
 
 .div134 {
   grid-area: 9 / 6 / 10 / 7;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
 
 .div135 {
   grid-area: 9 / 7 / 10 / 8;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
 }
+
+.div134 img {
+  width: 96px;
+  height: 96px;
+  margin-top: 12px;
+  margin-left: 8px;
+  animation: spin 5s linear 0s infinite;
+  }
+  @keyframes spin {
+  from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+  }
+  @keyframes blink {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+  }
+
+.div135 img {
+  width: 96px;
+  height: 96px;
+  margin-top: 12px;
+  margin-left: 8px;
+  animation: spin 5s linear 0s infinite;
+  }
+  @keyframes spin {
+  from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+  }
+  @keyframes blink {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+  }
 
 .div136 {
   grid-area: 9 / 8 / 10 / 9;
@@ -977,7 +1593,14 @@ body {
 
 .div140 {
   grid-area: 9 / 12 / 10 / 13;
-  background-color: #d2d2d2;
+  background-color: #b2b2b2;
+}
+
+.div140 p {
+  font-size: 96px;
+  color: #286DD4;
+  margin-top: 0px;
+  margin-left: 39px;
 }
 
 .div141 {
@@ -1004,6 +1627,18 @@ body {
   width: 1920px;
   height: 96px;
   background: #286DD4;
-  margin: auto;
   color: white;
+  display: flex;
+  position: absolute;
+  justify-content: space-between;
+  margin-top: 83px;
+}
+
+.footerleft {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.footerright {
+  margin-right: 1570px;
 }
